@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+    <title>Noticias interesantes ASIR1A</title>
+    <link>https://gonzalo886.github.io/gonzalo.github.io/</link>
+    <description>Noticias relacionadas con la materia dada en el ciclo</description>
+    <lastBuildDate>Tue, 09 Jan 2024 09:44:02 +0000</lastBuildDate>
+	<language>es</language>
+    <category>ASIR</category>
+    <copyright>Copyright (c) 2024 IDG Communications, Inc.</copyright>
+    <webMaster>a23toblgo@iesgrancapitan.org (Gonzalo Torres)</webMaster>
+    <ttl>30</ttl>
+    <item>
+        <title>Alerta! Nueva campaña de malware Lazarus contra el software legítimo</title>
+        <link>https://revistabyte.es/ciberseguridad/malware-lazarus/</link>
+        <comments>https://revistabyte.es/ciberseguridad/malware-lazarus/#respond</comments>
+        <pubDate>Tue, 31 Oct 2023 13:30:35 +0000</pubDate>
+        <dc:creator>Revista Byte IT</dc:creator>
+        <category>Seguridad</category>
+        <description>El Equipo de Investigación y Análisis de Kaspersky (GReAT) ha desvelado una nueva campaña del grupo Lazarus, que apunta a organizaciones a nivel global. La investigación, presentada en el Security</description>
+    </item>
+    <item>
+        <title>Los ciberataques continúan aumentando a nivel global</title>
+        <link>https://revistabyte.es/ciberseguridad/ciberataques-global/</link>
+        <comments>https://revistabyte.es/ciberseguridad/ciberataques-global/#respond</comments>
+        <pubDate>Tue, 02 May 2023 23:05:12 +0000</pubDate>
+        <dc:creator>Revista Byte IT</dc:creator>
+        <category>Seguridad</category>
+        <description>Ahora más que nunca, es el momento para considerar un enfoque de seguridad consolidado para el control preventivo de extremo a extremo, garantizando que esté completamente protegido contra los ciberataques</description>
+    </item>
+    <item>
+        <title>Alerta! crece el mercado de cuentas robadas de ChatGPT Premium</title>
+        <link>https://revistabyte.es/ciberseguridad/chatgpt-cuentas/</link>
+        <comments>https://revistabyte.es/ciberseguridad/chatgpt-cuentas/#respond</comments>
+        <pubDate>Sat, 22 Apr 2023 08:00:17 +0000</pubDate>
+        <dc:creator>Revista Byte IT</dc:creator>
+        <category>Cuentas robadas</category>
+        <description>Desde hace unos meses, se ha descubierto que ChatGPT presenta riesgos para la seguridad cibernética. Además, se ha observado un aumento en la venta de cuentas premium de la solución</description>
+    </item>
+    <item>
+        <title>Stormshield lanza XDR, el nuevo paradigma de la ciberseguridad corporativa</title>
+        <link>https://www.revistaciberseguridad.com/2024/01/stormshield-lanza-xdr-el-nuevo-paradigma-de-la-ciberseguridad-corporativa/</link>
+        <comments>https://www.revistaciberseguridad.com/2024/01/stormshield-lanza-xdr-el-nuevo-paradigma-de-la-ciberseguridad-corporativa/#respond</comments>
+        <pubDate>Thu, 11 Jan 2024 00:31:43 +0000</pubDate>
+        <dc:creator>Revista Ciberseguridad</dc:creator>
+        <category>Ciberseguridad</category>
+        <description>Stormshield, compañía europea en el mercado de la ciberseguridad, ha desarrollado Stormshield eXtended Detection Response (XDR) una solución que detecta, gestiona y responde eficazmente a los incidentes</description>
+    </item>
+    <item>
+        <title>Delinea adquiere Authomize para reforzar sus soluciones Extended PAM</title>
+        <link>https://www.revistaciberseguridad.com/2024/01/delinea-adquiere-authomize-para-reforzar-sus-soluciones-extended-pam/</link>
+        <comments>https://www.revistaciberseguridad.com/2024/01/delinea-adquiere-authomize-para-reforzar-sus-soluciones-extended-pam/#respond</comments>
+        <pubDate>Wed, 10 Jan 2024 00:31:48 +0000</pubDate>
+        <dc:creator>Revista Ciberseguridad</dc:creator>
+        <category>Seguridad de identidades</category>
+        <description>Delinea, proveedor de soluciones que amplían sin fisuras la gestión de accesos privilegiados (PAM) ha anunciado hoy que ha adquirido Authomize, pionero en la detección y eliminación de amenazas basadas en la identidad a través de la nube. El descubrimiento continuo y las capacidades de visibilidad de Authomize, junto con las soluciones SaaS líderes en</description>
+    </item>
+</channel>
+</rss>
